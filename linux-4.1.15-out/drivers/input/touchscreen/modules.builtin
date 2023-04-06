@@ -1,0 +1,7 @@
+kernel/drivers/input/touchscreen/of_touchscreen.ko
+kernel/drivers/input/touchscreen/edt-ft5x06.ko
+kernel/drivers/input/touchscreen/edt-ft5x06-mipi.ko
+kernel/drivers/input/touchscreen/gt911.ko
+kernel/drivers/input/touchscreen/gt928.ko
+kernel/drivers/input/touchscreen/usbtouchscreen.ko
+kernel/drivers/input/touchscreen/tsc2007.ko

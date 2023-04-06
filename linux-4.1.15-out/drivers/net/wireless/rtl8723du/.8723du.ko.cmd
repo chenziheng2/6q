@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl8723du/8723du.ko := arm-poky-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rtl8723du/8723du.ko drivers/net/wireless/rtl8723du/8723du.o drivers/net/wireless/rtl8723du/8723du.mod.o

@@ -1,0 +1,2 @@
+kernel/drivers/net/wireless/rtl8723bu/wlan.ko
+kernel/drivers/net/wireless/rtl8723du/8723du.ko

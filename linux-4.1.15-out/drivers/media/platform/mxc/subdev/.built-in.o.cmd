@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/subdev/built-in.o :=  arm-poky-linux-gnueabi-ld -EL    -r -o drivers/media/platform/mxc/subdev/built-in.o drivers/media/platform/mxc/subdev/mx6s_capture.o drivers/media/platform/mxc/subdev/mxc_mipi_csi.o drivers/media/platform/mxc/subdev/ov5640_camera.o drivers/media/platform/mxc/subdev/ov5640_camera_mipi.o 

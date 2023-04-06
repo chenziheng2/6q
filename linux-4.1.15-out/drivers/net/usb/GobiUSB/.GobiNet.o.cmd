@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/GobiUSB/GobiNet.o := arm-poky-linux-gnueabi-ld -EL    -r -o drivers/net/usb/GobiUSB/GobiNet.o drivers/net/usb/GobiUSB/GobiUSBNet.o drivers/net/usb/GobiUSB/QMIDevice.o drivers/net/usb/GobiUSB/QMI.o 

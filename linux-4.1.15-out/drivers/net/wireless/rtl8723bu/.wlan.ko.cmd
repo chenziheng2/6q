@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl8723bu/wlan.ko := arm-poky-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/net/wireless/rtl8723bu/wlan.ko drivers/net/wireless/rtl8723bu/wlan.o drivers/net/wireless/rtl8723bu/wlan.mod.o

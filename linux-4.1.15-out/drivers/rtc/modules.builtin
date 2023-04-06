@@ -1,0 +1,5 @@
+kernel/drivers/rtc/rtc-mxc.ko
+kernel/drivers/rtc/rtc-mc13xxx.ko
+kernel/drivers/rtc/rtc-pcf8563.ko
+kernel/drivers/rtc/rtc-rx8010.ko
+kernel/drivers/rtc/rtc-snvs.ko
